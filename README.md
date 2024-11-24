@@ -1,2 +1,3 @@
 # pandas-challenge
- Module 4 Challenge
+ ChatGPT was used to correct coding errors.
+ All coding where ChatGPT was used is commented accordingly.
